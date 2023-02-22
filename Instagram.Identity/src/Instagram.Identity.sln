@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Identity.API", "Instagram.Identity.API\Instagram.Identity.API.csproj", "{2A10A175-9B8F-4B73-A4E7-4DF4A7191258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Identity.Domain", "Instagram.Identity.Domain\Instagram.Identity.Domain.csproj", "{CE2D2D68-EEE7-4825-9356-6077C8766B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Identity.Application", "Instagram.Identity.Application\Instagram.Identity.Application.csproj", "{9A8B40E4-9666-42F1-9822-6D72809F0BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Identity.Infrastructure", "Instagram.Identity.Infrastructure\Instagram.Identity.Infrastructure.csproj", "{A364CDEB-268C-4E1C-8342-5CA576730FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A10A175-9B8F-4B73-A4E7-4DF4A7191258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A10A175-9B8F-4B73-A4E7-4DF4A7191258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A10A175-9B8F-4B73-A4E7-4DF4A7191258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A10A175-9B8F-4B73-A4E7-4DF4A7191258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2D2D68-EEE7-4825-9356-6077C8766B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2D2D68-EEE7-4825-9356-6077C8766B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2D2D68-EEE7-4825-9356-6077C8766B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2D2D68-EEE7-4825-9356-6077C8766B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8B40E4-9666-42F1-9822-6D72809F0BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8B40E4-9666-42F1-9822-6D72809F0BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8B40E4-9666-42F1-9822-6D72809F0BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8B40E4-9666-42F1-9822-6D72809F0BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A364CDEB-268C-4E1C-8342-5CA576730FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A364CDEB-268C-4E1C-8342-5CA576730FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A364CDEB-268C-4E1C-8342-5CA576730FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A364CDEB-268C-4E1C-8342-5CA576730FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
